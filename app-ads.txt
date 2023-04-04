@@ -1,0 +1,5 @@
+OWNERDOMAIN=replace_with_customer_domain.com
+#LASTUPDATED='2023-04-04T16:17:58.813Z'
+
+#Magnite
+rubiconproject.com, 25314, RESELLER, 0bfd66d529a55807
