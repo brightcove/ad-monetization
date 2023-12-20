@@ -1,5 +1,8 @@
 OWNERDOMAIN=replace_with_customer_domain.com
-#LASTUPDATED='2023-04-04T16:17:58.813Z'
+#LASTUPDATED='2023-11-01T19:33:42.953Z'
 
 #Magnite
 rubiconproject.com, 25314, RESELLER, 0bfd66d529a55807
+
+#Pubmatic
+pubmatic.com, 163624, RESELLER, 5d62403b186f2ace
